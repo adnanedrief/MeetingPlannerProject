@@ -1,6 +1,6 @@
 # MeetingPlannerProject
 ## Description
-Cette projet est une API en SpringBoot qui permet la gestion des salles de réunion d'une PME durant le COVID.
+Ce projet est une API en SpringBoot qui permet la gestion des salles de réunion d'une PME durant le COVID.
 ## Technologies utilisées
 SpringBoot, Swagger, JUnit.
 ## Fonctionnalitées
